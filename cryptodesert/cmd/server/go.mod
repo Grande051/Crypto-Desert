@@ -1,3 +1,3 @@
-module github.com/Grande051/Crypto-Desert
+module crypto-desert
 
 go 1.25.0
